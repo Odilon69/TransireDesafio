@@ -1,3 +1,4 @@
+
 Descompacte Transire.zip
 
 Criar banco DBLOJA
@@ -20,6 +21,8 @@ Visual Studio 2012 (Asp Net, C#, Jquery, Ajax, JavaScript, Bootstrap, Datatables
 Banco de dados SQL Server 2017
 
 --------------------------------------------------------------------------
+Atualização às 09:28 do dia 12/07/2012
+Acrescentei a cor dos status, se interessar, basta executar no banco DBLOJA o SPE_T002_PRODUTO_FND.sql que se encontra no arquivo transire2.zip e Abrir Transire.WebAplication.sln do mesmo arquivo zip.
 
 
 

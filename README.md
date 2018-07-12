@@ -1,3 +1,4 @@
+Descompacte Transire.zip
 Criar banco DBLOJA
 Criar Usuario usergeneral com password obm69
 Executar ScriptDBLOJA.sql

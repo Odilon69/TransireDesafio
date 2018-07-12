@@ -17,7 +17,7 @@ Abrir Transire.WebAplication.sln com Visual Studio 2012
 -------------------------------------------------------------------------
 Tecnologias Utilizadas
 
-Visual Studio 2012 (Asp Net, C#, Jquery, Ajax, JavaScript, Bootstrap, Datatables, toastr)
+Visual Studio 2012 (Asp Net, C#, entity framework, Jquery, Ajax, JavaScript, Bootstrap, Datatables, toastr)
 Banco de dados SQL Server 2017
 
 --------------------------------------------------------------------------
